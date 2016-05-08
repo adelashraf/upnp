@@ -1,2 +1,4 @@
 # upnp
-upnp exploit
+upnp exploits
+
+all exploits use upnp will be here
