@@ -1,3 +1,7 @@
+"""
+broken the firewall Windows 7 tested
+just write the ip and port try smb port for best result
+"""
 import socket
 import os
 import time
